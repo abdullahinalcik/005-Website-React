@@ -1,0 +1,16 @@
+section.about {
+  display: flex;
+  padding: 2rem;
+  /* margin: auto; */
+  /* margin-top: 1rem;    */
+  /* text-align: center; */
+  height: 83vh;
+  gap: 5rem;
+  /* border-bottom: solid 1px; */
+}
+section.about div.dark,
+div.right {
+  color: white;
+  background-color: #3f444f;
+  padding: 1rem;
+}

@@ -1,0 +1,16 @@
+
+section.foto {
+    background-image: url(../public/img/showcase.jpg);
+    height: 40vh;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+  }
+  section.foto h1 {
+    font-size: 2.5rem;
+  }

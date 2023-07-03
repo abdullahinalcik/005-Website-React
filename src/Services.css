@@ -1,0 +1,29 @@
+section.services {
+    /* margin-top: -1rem; */
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+    height: 100vh;
+    gap: 5rem;
+    /* border-bottom: solid 1px; */
+  }
+  section.services div.design,
+  div.maintance,
+  div.hosting {
+    border: 1px solid;
+    margin-top: 0.3rem;
+    padding: 1rem;
+    background-color: #d3d3d35b;
+  }
+  section.services form {
+    background-color: #3f444f;
+    color: white;
+    border: solid 1px;
+    padding: 1rem;
+    /* width: 20rem; */
+  }
+  
+  section.services table input,
+  textarea {
+    width: 15rem;
+  }

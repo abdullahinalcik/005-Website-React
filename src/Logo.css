@@ -1,0 +1,13 @@
+section.logo {
+    display: flex;
+    padding: 1rem;
+    margin: auto;
+    margin-top: 1rem;
+    text-align: center;
+    height: 40vh;
+    /* border-bottom: 1px solid; */
+  }
+  section.logo img{
+    width: 20%;
+  
+  }
