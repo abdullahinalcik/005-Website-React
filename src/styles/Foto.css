@@ -1,6 +1,6 @@
 
 section.foto {
-    background-image: url(../public/img/showcase.jpg);
+    background-image: url(../../public/img/showcase.jpg);
     height: 40vh;
     background-size: cover;
     color: white;

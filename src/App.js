@@ -1,12 +1,15 @@
 
-import About from './About';
+
+
+import About from './components/About';
 import './App.css';
-import Footer from './Footer';
-import Foto from './Foto';
-import { Header } from './Header';
-import Logo from './Logo';
-import { Mail } from './Mail';
-import Services from './Services';
+import Footer from './components/Footer';
+import Foto from './components/Foto';
+import { Header } from './components/Header';
+import Logo from './components/Logo';
+import { Mail } from './components/Mail';
+import Services from './components/Services';
+
 
 function App() {
   return (<>   
@@ -16,7 +19,6 @@ function App() {
   <Logo/>
   <About/>
   <Services/> 
-
   <Footer/> 
   </>)
  

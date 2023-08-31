@@ -1,9 +1,9 @@
-import "./Navbar.css"
+import "../styles/Navbar.css"
 
  const Navbar = () => {
   return (
     <header>
-    <h2><span>Clarusway</span> Web Design</h2>
+    <h2>      <span>Inalcik</span>       Web Design</h2>
     <ul>
       <li><a id="home" href="">HOME</a></li>
       <li><a href="#about">ABOUT</a></li>

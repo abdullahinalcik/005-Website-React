@@ -1,4 +1,4 @@
-import "./Foto.css"
+import "../styles/Foto.css"
 const Foto = () => {
   return (
     <section className="foto">

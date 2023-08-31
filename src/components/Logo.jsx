@@ -1,7 +1,7 @@
 import Css from "./Css"
 import Grap from "./Grap"
 import Html from "./Html"
-import "./Logo.css"
+import "../styles/Logo.css"
 
 
 const Logo = () => {

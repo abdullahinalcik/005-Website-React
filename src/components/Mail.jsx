@@ -1,6 +1,6 @@
 import Button from "./Button"
 import Input from "./Input"
-import"./Mail.css"
+import"../styles/Mail.css"
 
 export const Mail = () => {
   return (
